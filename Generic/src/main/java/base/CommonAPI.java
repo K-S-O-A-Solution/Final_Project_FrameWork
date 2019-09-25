@@ -33,7 +33,7 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(@Optional("false")boolean useSauceLabs,@Optional("")String userName,
                       @Optional("ssk")String key, @Optional("windows")String os,@Optional("chrome") String browserName,
-                      @Optional("77.0.3865.90")String browserVersion,@Optional("https://www.ebay.com/") String url)throws IOException{
+                      @Optional("77.0.3865.90")String browserVersion,@Optional("https://www.cnn.com/") String url)throws IOException{
         if(useSauceLabs == true){
             setUpCloudEnvironment(userName,key,os,browserName,browserVersion,url);
         }else{

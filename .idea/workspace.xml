@@ -1,8 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="12ce371d-2db9-42f5-94b4-45a615c205a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+=======
+    <list default="true" id="52d68c2e-bd1e-4740-a765-5d4fc925a66f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/CNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CitiBank/CitiBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/Ebay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBook/FaceBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetLife/MetLife.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTube/YouTube.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/Home/Testclass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/testClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/Home/Testclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/home/testClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/testPages/testClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +59,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -37,15 +87,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RJAUKFggZeKXmDQwmpFf9OMl2j" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CNN/src/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+>>>>>>> Stashed changes
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+<<<<<<< Updated upstream
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\FinalFrameWorkTeam3\Ebay\src\test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\FinalFrameWorkTeam3\Generic\Driver" />
+=======
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testPages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Apurba Nibir\FinalFrameWork\Final_Project_FrameWork\CNN\src\test" />
+>>>>>>> Stashed changes
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,6 +129,7 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="TestNG.AccountPageTest.createAccountTest">
     <configuration name="AccountPageTest.createAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
@@ -109,6 +179,11 @@
     </configuration>
     <configuration name="SignInPageTest.testInvalidSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
+=======
+  <component name="RunManager">
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+>>>>>>> Stashed changes
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testPages.*" />
@@ -116,6 +191,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testPages" />
+<<<<<<< Updated upstream
       <option name="MAIN_CLASS_NAME" value="testPages.SignInPageTest" />
       <option name="METHOD_NAME" value="testInvalidSignIn" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -129,6 +205,10 @@
       <module name="Ebay" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
+=======
+      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+>>>>>>> Stashed changes
       <properties />
       <listeners />
       <method v="2">
@@ -137,11 +217,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="TestNG.AccountPageTest.createAccountTest" />
         <item itemvalue="TestNG.AccountPageTest.titleIsDisplayed" />
         <item itemvalue="TestNG.SignInPageTest.testInvalidSignIn" />
         <item itemvalue="TestNG.D:/FinalFrameWorkTeam3/Ebay/src/test/resources/EbayRunner.xml" />
         <item itemvalue="TestNG.&lt;default&gt;" />
+=======
+        <item itemvalue="TestNG.HomePageTest" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -150,11 +234,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="12ce371d-2db9-42f5-94b4-45a615c205a4" name="Default Changelist" comment="" />
       <created>1569184495510</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569184495510</updated>
+=======
+      <changelist id="52d68c2e-bd1e-4740-a765-5d4fc925a66f" name="Default Changelist" comment="" />
+      <created>1569374840021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569374840021</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -163,14 +255,19 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< Updated upstream
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+=======
+            <State />
+>>>>>>> Stashed changes
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -181,4 +278,6 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
